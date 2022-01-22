@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_cache.xml" value="0.25" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_editnote.xml" value="0.16145833333333334" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_editnotecache.xml" value="0.16145833333333334" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_editnoteexternal.xml" value="0.16145833333333334" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_external.xml" value="0.16145833333333334" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_internal1.xml" value="0.16145833333333334" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GitHub/NOTES/Notes-App-Android/notes/app/src/main/res/layout/activity_viewnote.xml" value="0.16145833333333334" />
       </map>
     </option>
   </component>
